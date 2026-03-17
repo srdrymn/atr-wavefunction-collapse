@@ -17,7 +17,7 @@ Based on the **Algorithmic Theory of Reality (ATR)** framework:
 And the preceding derivations:
 > S. Yaman, *"Holographic Dark Energy from Algorithmic Thermodynamics,"* 2026. DOI: [10.5281/zenodo.19050917](https://doi.org/10.5281/zenodo.19050917)
 >
-> S. Yaman, *"The Galactic Acceleration Anomaly as an Algorithmic Noise Floor: Deriving the MOND Scale from Entropic Thermodynamics,"* 2026.
+> S. Yaman, *"The Galactic Acceleration Anomaly as an Algorithmic Noise Floor: Deriving the MOND Scale from Entropic Thermodynamics,"* 2026. DOI: [10.5281/zenodo.19054817](https://doi.org/10.5281/zenodo.19054817)
 
 ---
 
@@ -132,7 +132,7 @@ The script performs 10 computational checks:
 
 1. S. Yaman, "The Algorithmic Theory of Reality: Rigorous Mathematical Foundations," *Zenodo* (2026). [DOI: 10.5281/zenodo.19042891](https://doi.org/10.5281/zenodo.19042891)
 2. S. Yaman, "Holographic Dark Energy from Algorithmic Thermodynamics: Resolving the Vacuum Catastrophe via the Bennett-Landauer Limit," (2026). [DOI: 10.5281/zenodo.19050917](https://doi.org/10.5281/zenodo.19050917)
-3. S. Yaman, "The Galactic Acceleration Anomaly as an Algorithmic Noise Floor: Deriving the MOND Scale from Entropic Thermodynamics," (2026).
+3. S. Yaman, "The Galactic Acceleration Anomaly as an Algorithmic Noise Floor: Deriving the MOND Scale from Entropic Thermodynamics," (2026). [DOI: 10.5281/zenodo.19054817](https://doi.org/10.5281/zenodo.19054817)
 4. E. Joos and H. D. Zeh, "The emergence of classical properties through interaction with the environment," *Z. Phys. B* **59**, 223 (1985).
 5. W. H. Zurek, "Decoherence, einselection, and the quantum origins of the classical," *Rev. Mod. Phys.* **75**, 715 (2003).
 6. R. Landauer, "Irreversibility and heat generation in the computing process," *IBM J. Res. Dev.* **5**, 183 (1961).
